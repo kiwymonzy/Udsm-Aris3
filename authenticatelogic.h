@@ -2,7 +2,7 @@
 **
 **  Source Code Developed By: H.V.L.Hasanka
 **
-
+***********************************************/
 
 #ifndef AUTHENTICATELOGIC_H
 #define AUTHENTICATELOGIC_H
