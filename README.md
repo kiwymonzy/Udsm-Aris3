@@ -70,7 +70,7 @@
 
 [@kiwymonzy](https://instagram.com/1.1.1.1.kiwy) - Email: kiwymonzy9137@gmail.com
 
-Project Link: [https://github.com/kiwymonzy/Udsm-Aris3](Udsm-Aris3)
+Project Link: [Udsm-Aris3](https://github.com/kiwymonzy/Udsm-Aris3)
 
 
 
