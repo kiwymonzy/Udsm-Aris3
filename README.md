@@ -29,7 +29,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/kiwymonzy/Hotel">
-    <img src="screenshot/logo.png" alt="Logo" width="80" height="80">
+    <img src="img/png/udsm.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">UDSM ARIS3</h3>
