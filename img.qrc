@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/bg/05.png</file>
+        <file>img/bg/bg.jpg</file>
+        <file>img/png/4.png</file>
+        <file>img/png/aris_3.png</file>
+        <file>img/png/aris3.png</file>
+        <file>img/png/quiz.png</file>
+        <file>img/png/time.png</file>
+        <file>img/png/udsm.png</file>
+        <file>img/png/ucc.png</file>
+        <file>img/png/Unknown.jpg</file>
+        <file>img/icon/academics.png</file>
+        <file>img/icon/close.png</file>
+        <file>img/icon/dashboard-admin.png</file>
+        <file>img/icon/dashboard-stu.png</file>
+        <file>img/icon/payments.png</file>
+        <file>img/icon/profile.png</file>
+        <file>img/icon/registration.png</file>
+        <file>img/icon/report.png</file>
+        <file>img/icon/student.png</file>
+        <file>img/icon/user.png</file>
+    </qresource>
+</RCC>
