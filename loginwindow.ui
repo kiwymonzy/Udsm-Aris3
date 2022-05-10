@@ -189,7 +189,7 @@ border-radius: 5px;</string>
       <string/>
      </property>
      <property name="pixmap">
-      <pixmap resource="img.qrc">:/img/png/udsm.png</pixmap>
+      <pixmap resource="../../ARIS-APP/img.qrc">:/img/png/udsm.png</pixmap>
      </property>
      <property name="scaledContents">
       <bool>true</bool>
@@ -219,7 +219,7 @@ border-radius: 5px;</string>
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap resource="img.qrc">:/img/bg/bg.jpg</pixmap>
+     <pixmap resource="../../ARIS-APP/img.qrc">:/img/bg/bg.jpg</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>
@@ -261,7 +261,7 @@ border-radius: 24px;
      <string/>
     </property>
     <property name="icon">
-     <iconset resource="img.qrc">
+     <iconset resource="../../ARIS-APP/img.qrc">
       <normaloff>:/img/icon/close.png</normaloff>:/img/icon/close.png</iconset>
     </property>
     <property name="iconSize">
@@ -294,8 +294,6 @@ border-radius: 24px;
   <tabstop>login_pushButton</tabstop>
   <tabstop>logout_pushButton</tabstop>
  </tabstops>
- <resources>
-  <include location="img.qrc"/>
- </resources>
+ <resources/>
  <connections/>
 </ui>
