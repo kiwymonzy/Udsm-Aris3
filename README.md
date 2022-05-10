@@ -32,7 +32,7 @@
     <img src="img/png/udsm.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">UDSM ARIS3</h3>
+<h3 align="center">SAMPLE UDSM ARIS3 PROJECT</h3>
 
   <p align="center">
     Project written in C++ under Qt6 framework
